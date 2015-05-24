@@ -11,7 +11,7 @@
 I hope you will enjoy it and you'll get its benifits . 
 # Copyright
 By Karam Qubsi , 2015.
-
+Any suggestions or contributions are very welcome :) . 
 Email : <karamqubsi@gmail.com> 
 
 GNU GENERAL PUBLIC LICENSE Version 2
