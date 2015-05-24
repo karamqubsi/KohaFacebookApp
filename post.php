@@ -1,8 +1,11 @@
 <?php
 	/*
-		Koha-Facebook app version : 0.1 
-		By Karam Qubsi 
-		Email : karamqubsi@gmail.com 
+		Koha-Facebook App 
+		Version 1.0 
+		By Karam Qubsi , 2015.
+		Any suggestions or contributions are very welcome :) .
+		Email : karamqubsi@gmail.com
+		GNU GENERAL PUBLIC LICENSE Version 2 
 	*/
 	
 	require "facebook-php-sdk-master/src/facebook.php"; // this should point to the correct path in your server . 
