@@ -10,6 +10,8 @@
 
 I hope you will enjoy it and you'll get its benifits . 
 # Copyright
+Koha-Facebook App 
+		Version 1.0 
 By Karam Qubsi , 2015.
 
 Any suggestions or contributions are very welcome :) . 
