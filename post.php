@@ -73,7 +73,7 @@
 		}
 	}
 	
-	$time = time() + 720; //this mean it is 10 minutes . 
+	$time = time() + 720; //this mean it is 10 minutes later. 
 	
 	
 	for ($i=0 ;$i < sizeof($booklist); $i++, $time = $time + 720 ) { 
